@@ -13,7 +13,9 @@ Find out more about:
 More about UK Scouting can be found [here](http://scouts.org.uk)
 
 ![Scouts banner image](images/banner.gif)
-<br><br>
+
+-----
+
 ## <a name="beavers">Beavers</a>
 
 Beaver Scouts are the youngest section of the Scouting family. Their activities are based around making things, outdoor activities, singing, playing games, going out on visits, investigating nature, listening to stories, learning how to be safe and most importantly, making new friends.
@@ -26,9 +28,13 @@ _I promise to do my best,<br>
 To be kind and helpful,<br>
 and to love God._
 
-When a Beaver reaches the age of 8 they have the opportunity to move on to Cubs
+When a Beaver reaches the age of 8 they have the opportunity to move on to Cubs.
+
+The Beaver Scout uniform may be purchased from [The Official Scout Shop](http://shop.scouts.org.uk/s-2-beavers.aspx?SectionFilterID=2&sectioncategories=true) or from John Lewis in Newcastle.
 
 [Badge placement diagram for Beavers](media/BeaversUniformDiagram.pdf) (PDF)
+
+-----
 
 ## <a name="cubs">Cubs</a>
 
@@ -47,7 +53,11 @@ And to keep the Cub Scout Law_
 
 When a Beaver reaches the age of 8 they have the opportunity to move on to Cubs
 
+The Cub Scout uniform may be purchased from [The Official Scout Shop](http://shop.scouts.org.uk/s-3-cubs.aspx?SectionFilterID=3&sectioncategories=true) or from John Lewis in Newcastle.
+
 [Badge placement diagram for Cubs](media/CubsUniformDiagram.pdf) (PDF)
+
+-----
 
 ## <a name="scouts">Scouts</a>
 
@@ -64,13 +74,6 @@ And to keep the Scout Law
 
 When a Scout reaches 14 they move on to Explorer Scouts.
 
+The Scout uniform may be purchased from [The Official Scout Shop](http://shop.scouts.org.uk/s-8-scouts.aspx?SectionFilterID=8&sectioncategories=true) or from John Lewis in Newcastle.
+
 [Badge placement diagram for Scouts](media/ScoutsUniformDiagram.pdf) (PDF)
-
-## Uniform
-
-Uniform can be purchased from John Lewis in Newcastle, or online at the following websites:
-
-* [The Official Scout Shop](http://shop.scouts.org.uk)
-* [Glasgow Scout Shop](https://www.glasgowscoutshop.com)
-
-Please ask a leader if you require any further advice.
