@@ -58,8 +58,10 @@ When a Scout reaches 14 they move on to Explorer Scouts.
 
 Uniform can be purchased from John Lewis in Newcastle, or online at the following websites:
 
-* http://shop.scouts.org.uk
-* https://www.glasgowscoutshop.com
+* [The Official Scout Shop](http://shop.scouts.org.uk)
+* [Glasgow Scout Shop](https://www.glasgowscoutshop.com)
+
+Please ask a leader if you require any further advice.
 
 ## Volunteering
 
