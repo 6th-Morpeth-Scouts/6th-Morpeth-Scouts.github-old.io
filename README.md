@@ -11,7 +11,7 @@ Find out more about:
 * [Cubs](#cubs)
 * [Scouts](#scouts)
 
-More about UK Scouting can be found [here](http://scouts.org.uk)
+More about UK Scouting can be found [here](http://scouts.org.uk).
 
 ![Scouts banner image](images/banner.gif)
 
