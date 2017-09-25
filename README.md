@@ -1,6 +1,6 @@
-# 6th Morpeth Scouts
+# About
 
-We are based in the Methodist Church in Morpeth, Northumberland and have over 100 members in two Beaver Colonies, two Cub Packs and two Scout Troops.
+6th Morpeth Scouts are based in the Methodist Church in Morpeth, Northumberland and have over 100 members in two Beaver Colonies, two Cub Packs and two Scout Troops.
 
 ## Beavers
 
