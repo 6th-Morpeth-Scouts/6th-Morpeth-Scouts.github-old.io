@@ -77,7 +77,7 @@ Age range: 10½ to 14 years old
 _On my honour, I promise that I will do my best<br>
 To do my duty to God and to the Queen<br>
 To help other people<br>
-And to keep the Scout Law
+And to keep the Scout Law_
 
 When a Scout reaches 14 they move on to Explorer Scouts.
 
