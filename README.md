@@ -1,6 +1,6 @@
 # About
 
-6th Morpeth Scouts are based in the Methodist Church in Morpeth, Northumberland and have over 100 members in two Beaver Colonies, two Cub Packs and two Scout Troops.
+Scouting offers challenge and adventure to 400,000 young people across the UK. 6th Morpeth Scouts are based in the Methodist Church in Morpeth, Northumberland and have over 100 members in two Beaver Colonies, two Cub Packs and two Scout Troops.
 
 Find out more about: 
 
@@ -8,10 +8,12 @@ Find out more about:
 * [Cubs](#cubs)
 * [Scouts](#scouts)
 
-If your son or daughter
+More about UK Scouting can be found [here](http://scouts.org.uk)
 
 ![Scouts banner image](images/banner.gif)
-<br><br>
+
+> "Every child has the right to an adventure. Life is about grabbing opportunities. The prizes don’t always go to the biggest, the best and the strongest – they go to those who persevere. These are simple life lessons that Scouting teaches." (Bear Grylls)
+
 ## <a name="beavers">Beavers</a>
 
 Beaver Scouts are the youngest section of the Scouting family. Their activities are based around making things, outdoor activities, singing, playing games, going out on visits, investigating nature, listening to stories, learning how to be safe and most importantly, making new friends.
