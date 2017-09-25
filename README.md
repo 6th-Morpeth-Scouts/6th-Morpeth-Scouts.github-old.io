@@ -4,7 +4,13 @@
 
 ![Scouts banner image](images/banner.gif)
 
-## Beavers
+Find out more about: 
+
+* [Beavers](#beavers)
+* [Cubs](#cubs)
+* [Scouts](#scouts)
+
+## <a name="beavers">Beavers</a>
 
 Beaver Scouts are the youngest section of the Scouting family. Their activities are based around making things, outdoor activities, singing, playing games, going out on visits, investigating nature, listening to stories, learning how to be safe and most importantly, making new friends.
 
@@ -20,7 +26,7 @@ When a Beaver reaches the age of 8 they have the opportunity to move on to Cubs
 
 [Badge placement diagram for Beavers](media/BeaversUniformDiagram.pdf) (PDF)
 
-## Cubs
+## <a name="cubs">Cubs</a>
 
 Cubs is the second section of the Scouting movement, originally started in 1916 for younger brothers who wanted a 'look-in'. In nearly a century, the section has constantly evolved and adapted its programme and methods to meet the changing needs of each generation of young people.
 
@@ -39,7 +45,7 @@ When a Beaver reaches the age of 8 they have the opportunity to move on to Cubs
 
 [Badge placement diagram for Cubs](media/CubsUniformDiagram.pdf) (PDF)
 
-## Scouts
+## <a name="scouts">Scouts</a>
 
 Scouts are the third section of the Scouting movement. From the first experimental camp for 20 boys in 1907, the movement now has an estimated 28 million members worldwide, and in the UK alone there are over 499,000 boys and girls involved in Scouting. An increase in adult volunteers means that more and more young people are now able to take part in their own big adventure.
 
