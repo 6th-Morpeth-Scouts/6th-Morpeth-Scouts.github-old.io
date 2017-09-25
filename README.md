@@ -40,6 +40,8 @@ The Beaver Scout uniform may be purchased from [The Official Scout Shop](http://
 
 ## <a name="cubs">Cubs</a>
 
+![Cubs](images/cubs.jpg)
+
 Cubs is the second section of the Scouting movement, originally started in 1916 for younger brothers who wanted a 'look-in'. In nearly a century, the section has constantly evolved and adapted its programme and methods to meet the changing needs of each generation of young people.
 
 Cub Scout you get opportunities to learn and take part in activities like swimming, computing, collecting, sports and exploring. They get badges for doing the activities properly. Cub Scouts will also take part on days out and get the opportunity to go camping and doing lots of outdoor activities.
