@@ -1,6 +1,6 @@
-# Beavers
-
 [<< Back](/)
+
+# Beavers
 
 ![Beavers](images/beavers.jpg)
 
