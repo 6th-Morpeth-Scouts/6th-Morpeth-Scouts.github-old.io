@@ -1,3 +1,5 @@
+![Scouts banner image](images/banner.gif)
+
 # About
 
 <div style="float:right; padding-left:5%;"><img src="images/bear-grylls.jpeg" alt="Bear Grylls"></div>
@@ -12,5 +14,3 @@ Find out more about:
 * [Scouts](/scouts)
 
 More information about UK Scouting can be found [here](http://scouts.org.uk).
-
-![Scouts banner image](images/banner.gif)
