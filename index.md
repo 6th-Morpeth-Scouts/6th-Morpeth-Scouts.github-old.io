@@ -9,7 +9,7 @@ Find out more about:
 
 * [Beavers](/beavers)
 * [Cubs](/cubs)
-* [Scouts](#scouts)
+* [Scouts](/scouts)
 
 More information about UK Scouting can be found [here](http://scouts.org.uk).
 
