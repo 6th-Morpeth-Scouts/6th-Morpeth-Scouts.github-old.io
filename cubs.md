@@ -1,6 +1,6 @@
 # Cubs
 
-[<<< Back](/)
+[<< Back](/)
 
 ![Cubs](images/cubs.jpg)
 
