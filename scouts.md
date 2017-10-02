@@ -1,6 +1,6 @@
 # Scouts
 
-[<<< Back](/)
+[<< Back](/)
 
 ![Scouts](images/scouts.jpg)
 
