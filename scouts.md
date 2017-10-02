@@ -1,5 +1,7 @@
 # Scouts
 
+[<<< Back](/)
+
 ![Scouts](images/scouts.jpg)
 
 Scouts are the third section of the Scouting movement. From the first experimental camp for 20 boys in 1907, the movement now has an estimated 28 million members worldwide, and in the UK alone there are over 499,000 boys and girls involved in Scouting. An increase in adult volunteers means that more and more young people are now able to take part in their own big adventure.
