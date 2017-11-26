@@ -11,6 +11,6 @@ Find out more about:
 * [Cubs](/cubs)
 * [Scouts](/scouts)
 
-Find out more about UK Scouting on the [website](http://scouts.org.uk) and [YouTube channel](https://www.youtube.com/user/UKScoutAssociation)
+Find out more about UK Scouting on the [main website](http://scouts.org.uk) and [YouTube channel](https://www.youtube.com/user/UKScoutAssociation)
 
 
