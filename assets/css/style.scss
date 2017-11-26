@@ -3,13 +3,3 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-  font-family: "TheSerifExtraBold";
-  font-style: normal;
-  font-weight: normal;
-  src: url("assets/fonts/theserif-exbld-webfont.woff") format("woff")
-}
-
-h1,h2,h3,h4 {
-  font-family:"TheSerifExtraBold", inherit;
-}
