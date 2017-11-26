@@ -1,6 +1,6 @@
 # Volunteering
 
-<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3AaVtfnRq1k?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="100%" src="https://www.youtube-nocookie.com/embed/3AaVtfnRq1k?rel=0" frameborder="0" allowfullscreen></iframe></p>
 
 We always need help in delivering Beavers, Cubs, and Scouts activities. Each of the sections has one Leader in charge, with other adults who assist. All volunteers are DBS checked and Training is given where required. 
 
