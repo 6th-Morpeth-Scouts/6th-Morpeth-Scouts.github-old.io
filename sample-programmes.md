@@ -3,24 +3,46 @@
 # Sample programmes
 
 ## Beavers
-1. Lodges & Beaver Games
-2. Fitness Games
-3. A walk round the Streets
-4. Animal Night
-5. Fire Station Visit (4.30-5.30)
-6. Food!
-7. Halloween
+* Lodges & Beaver Games
+* Fitness Games
+* A tour of the historic streets of Morpeth
+* Animal Night
+* Fire Station Visit (4.30-5.30)
+* Food!
+* Halloween
 
 HALF TERM
 
-8. Lino Cut Printing
-9. Knots etc
-10. Space Badge (Week 1)
-11. Space Badge (Week 2)
-12. Card delivery
-13. Carol Singing
-14. Christmas Crafts
+* Lino Cut Printing
+* Knots etc
+* Space Badge (Week 1)
+* Space Badge (Week 2)
+* Card delivery
+* Carol Singing
+* Christmas Crafts
 
 ## Cubs
+
+* Camp Prep
+* Kirkley Hall camp
+* Hike and Chips
+* Harvest Festival
+* Stand Up Paddle boarding session
+* Navigation Part 1
+* Navigation Part 2
+* Monsters Ball
+
+HALF TERM
+
+* Cubs Vs Parents Team Challenge Night
+* Card Making
+* Remembrance parade
+* First Aid
+* Clip n climb
+* Star Gazing 
+* Night Hike and Chips
+* Toy service
+* Bowling
+* Christmas Party
 
 ## Scouts
