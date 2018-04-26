@@ -23,6 +23,8 @@ The Cub Scout uniform may be purchased from [The Official Scout Shop](http://sho
 
 [Badge placement diagram for Cubs](media/CubsUniformDiagram.pdf) (PDF)
 
+------
+
 ## Sample programme
 
 * Camp Prep
