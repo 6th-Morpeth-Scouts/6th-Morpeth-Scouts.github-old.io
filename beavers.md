@@ -20,6 +20,8 @@ The Beaver Scout uniform may be purchased from [The Official Scout Shop](http://
 
 [Badge placement diagram for Beavers](media/BeaversUniformDiagram.pdf) (PDF)
 
+-----
+
 ## Sample programme
 
 * Lodges & Beaver Games
