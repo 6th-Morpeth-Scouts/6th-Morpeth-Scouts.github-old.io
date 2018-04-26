@@ -1,6 +1,6 @@
 [<< Back](/)
 
-# News
+# Latest updates
 
 ## GMDT Litter pick
 #### 26th April 2018
