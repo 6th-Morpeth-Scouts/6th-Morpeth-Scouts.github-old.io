@@ -21,6 +21,8 @@ The Scout uniform may be purchased from [The Official Scout Shop](http://shop.sc
 
 [Badge placement diagram for Scouts](media/ScoutsUniformDiagram.pdf) (PDF)
 
+------
+
 ## Sample programme
 
 * Welcome back
