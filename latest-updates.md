@@ -7,4 +7,8 @@
 
 ![Litter pick 2018](/images/litter-pick-2018.jpg)
 
-As you may know, Scouts have been taking part in initiatives to clean up the environment for some years; we’ve often helped on litter picks to clean up Morpeth as part of the Northumbria in Bloom initiative. We were invited take part in the Greater Morpeth Development Trust (GMDT) led Litter Blitz on Sunday 22nd April 2018. Not only is the town looking a little better, but have helpedstop wildlife being injured or killed by plastic and cans.
+A big thank you to all who took part in Sunday’s litter pick - together with other litter pickers, they collected 60 bags of rubbish and found some interesting items - a hat and a soft toy monkey, amongst other things.
+
+Greater Morpeth Development Trust thanked us for being involved and were impressed with the turnout of Scouts, Cubs and Beavers.  The Scouts behaved really well and were a credit to you.
+
+Litter picks make a real difference to how our town looks and feels so thank you for being involved. We plan to do another in the autumn.
