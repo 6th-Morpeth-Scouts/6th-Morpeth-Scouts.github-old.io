@@ -2,7 +2,8 @@
 
 # News
 
-## Litter pick 
+## GMDT Litter pick
+#### 26th April 2018
 
 ![Litter pick 2018](/images/litter-pick-2018.jpg)
 
