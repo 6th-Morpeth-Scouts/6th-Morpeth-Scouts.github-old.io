@@ -1,7 +1,5 @@
 ## Privacy notice
 
-Dear Parent/Carer
-
 As you may already be aware the General Data Protection Regulation (GDPR) replaces the Data Protection Act 1998 from 25th May 2018. It is designed to strengthen the safety and security of all data held within an organisation, and make sure processing and storage procedures are consistent.
 
 6th Morpeth Scouts are committed to safeguarding the privacy of your information and wanted to inform you of what we hold, how we store it and how it is processed.
@@ -49,15 +47,11 @@ You have the right to request access to information we hold about you or your ch
 * Prevent processing for the purpose of direct marketing
 * In certain circumstances, have inaccurate personal data rectified, blocked, erased or destroyed.
 
-If you wish to contact us to exercise these rights or for further queries about this Privacy Notice then please contact us at 6thmorpethscouts@gmail.com. If you have a concern about the way we are collecting or using your personal data, we request that you raise your concern with us in the first instance. Alternatively, you can contact the Information Commissioner’s Office at https://ico.org.uk/concerns/
+If you wish to contact us to exercise these rights or for further queries about this Privacy Notice then please contact us at 6thmorpethscouts@gmail.com. If you have a concern about the way we are collecting or using your personal data, we request that you raise your concern with us in the first instance. Alternatively, you can contact the Information Commissioner’s Office at [https://ico.org.uk/concerns](https://ico.org.uk/concerns).
 
-Yours sincerely,
+-----
 
-Linda Templey
-Chair
-6th Morpeth Scouts Executive Committee
-
-23rd May 2018
+Last update: 23rd May 2018
 
 
 
