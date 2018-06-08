@@ -2,6 +2,13 @@
 
 # Latest updates
 
+## GDPR compliance
+#### 26th May 2018
+
+A quick note to say that we have updated our [privacy notice](http://6thmorpethscouts.co.uk/privacy-notice) to comply with the General Data Protection Regulation (GDPR) that is now in effect. 
+
+-----
+
 ## GMDT Litter pick
 #### 26th April 2018
 
