@@ -1,4 +1,4 @@
-## General Data Protection Regulation (GDPR)
+## Privacy notice
 
 Dear Parent/Carer
 
