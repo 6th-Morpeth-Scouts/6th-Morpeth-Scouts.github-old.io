@@ -1,4 +1,4 @@
-<p span style="background: yellow; padding: 5px;"><strong>We're in real need of more parent volunteers for our Executive Committee. Please do consider volunteering! As your child's group leader for more information.</strong></p>
+<p span style="background: yellow; padding: 5px;"><strong>We're in real need of more parent volunteers for our Executive Committee. Please do consider volunteering! Ask your child's group leader for more information.</strong></p>
 
 # Volunteering
 
