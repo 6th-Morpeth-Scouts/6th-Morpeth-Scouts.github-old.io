@@ -1,3 +1,5 @@
+<p span style="background: yellow; padding: 5px;"><strong>We're in real need of more parent volunteers for our Executive Committee. Please do consider volunteering! As your child's group leader for more information.</strong></p>
+
 # Volunteering
 
 <p><iframe width="100%" src="https://www.youtube-nocookie.com/embed/3AaVtfnRq1k?rel=0" frameborder="0" allowfullscreen></iframe></p>
@@ -11,5 +13,6 @@ What we require from you as a volunteer depends on what you can offer! It could 
 * Catering at camp as part of team
 * Demonstrating a new skill at a weekly meeting
 * Ensuring continuity by stepping in when a leader can't make it
+* Joining the Executive Committee
 
 Why not try Bear Grylls' [four-week challenge](http://scouts.org.uk/news/2016/03/blog-take-the-four-week-challenge/)? You even earn a certificate at the end of it!
