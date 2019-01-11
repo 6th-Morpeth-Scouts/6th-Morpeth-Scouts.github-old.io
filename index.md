@@ -1,4 +1,5 @@
-# 6th Morpeth Scouts
+<br />
+<br />
 
 <div style="float:right; padding-left:5%;"><img src="images/bear-grylls.jpeg" alt="Bear Grylls"></div>
 <blockquote>"Every child has the right to an adventure. Life is about grabbing opportunities. The prizes don’t always go to the biggest, the best and the strongest – they go to those who persevere. These are simple life lessons that Scouting teaches." (Bear Grylls, Chief Scout)</blockquote>
